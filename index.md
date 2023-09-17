@@ -9,3 +9,5 @@
 
 
 # yeni kod yazıldı
+# bende yeni kod yazdım
+
