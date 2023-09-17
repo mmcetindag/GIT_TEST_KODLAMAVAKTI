@@ -8,7 +8,7 @@
 
 
 
-# yeni kod yazıldı
 # bende yeni kod yazdım
 
-# yeni kod
+
+# 14 yeni kodgit
